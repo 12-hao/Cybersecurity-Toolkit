@@ -102,5 +102,3 @@
 欢迎提交 Issue 和 Pull Request 来改进本项目。
 
 ```
-
-将 `your-username` 和 `your-repo-name` 替换为你的 GitHub 用户名和仓库名，并根据实际情况补充其他信息。
