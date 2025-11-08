@@ -100,14 +100,3 @@
 
 ## 贡献
 欢迎提交 Issue 和 Pull Request 来改进本项目。
-
-## 许可证
-本项目基于 [MIT License](LICENSE) 开源。
-
-## 联系方式
-如有任何问题，请联系开发者：
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your-email@example.com
-```
-
-将 `your-username` 和 `your-repo-name` 替换为你的 GitHub 用户名和仓库名，并根据实际情况补充其他信息。
