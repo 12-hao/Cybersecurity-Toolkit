@@ -1,0 +1,5 @@
+/uploads/dump.sql
+/wp-content/debug.log
+/wp-content/uploads/dump.sql
+.111/php
+/robots.txt

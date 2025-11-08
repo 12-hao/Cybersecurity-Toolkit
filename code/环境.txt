@@ -1,0 +1,6 @@
+go get -u github.com/imroc/req/v3
+go get github.com/jessevdk/go-flags
+
+go run main.go portscan -i (ip地址) -s (开始端口 默认为1) -e (结束端口 默认为65535)
+
+go run main.go dir -p (指定读取文件的路径 每个路径一行）-a (要爆破目录的网站 例如：http://xxx.xxx.xxx/)
